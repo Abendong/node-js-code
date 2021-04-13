@@ -1,7 +1,5 @@
 #### 1. Application setup steps
 
-  Some new line here to test blabl
-
 This simple nodejs app starts on port 3000 and logs some info on startup.
 
 ###### to prepare the app for startup, installing all the dependencies 
